@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-api-publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .api/construindoAPI-7.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandaNalon/nodejs-publish-api-TII13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandaNalon/nodejs-publish-api-TII13/issues"
+  },
+  "homepage": "https://github.com/FernandaNalon/nodejs-publish-api-TII13#readme"
+}
